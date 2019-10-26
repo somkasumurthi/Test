@@ -1,3 +1,5 @@
+B3 added branch
+This is part of b2:wq
 This is part o
 added b2 f b2:wq
 New l1 in b1
