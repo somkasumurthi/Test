@@ -1,2 +1,4 @@
 This is part of b2:wq
-:
+New l1 in b1
+This is modified as part of b1
+
